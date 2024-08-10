@@ -1,0 +1,7 @@
+body{
+    background-color: brown;
+    background-image: url("rasmlar/coco.jpg");
+    background-repeat: no-repeat;
+    background-size: 50%;
+    background-position: 200px 400px;
+}
